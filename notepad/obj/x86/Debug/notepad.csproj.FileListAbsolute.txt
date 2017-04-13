@@ -1,0 +1,8 @@
+D:\myProject\Windows\notepad\notepad\bin\Debug\notepad.exe
+D:\myProject\Windows\notepad\notepad\bin\Debug\notepad.pdb
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.Properties.Resources.resources
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.csproj.GenerateResource.Cache
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.exe
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.pdb
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.csprojResolveAssemblyReference.cache
+D:\myProject\Windows\notepad\notepad\obj\x86\Debug\notepad.frmDotNetNote.resources
